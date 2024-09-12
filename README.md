@@ -165,6 +165,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/c36f4e68-2855-47c6-bee4-a08042a98171" height="70%" width="70%" alt="Azure Free Account"/> 	
 <img src="https://github.com/user-attachments/assets/025dbadc-d361-413c-95de-ca81dc8e2bfe" height="80%" width="80%" alt="Azure Free Account"/> 
 <img src="https://github.com/user-attachments/assets/6f926762-52b3-495a-849f-95c7d9901c3a" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
